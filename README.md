@@ -51,7 +51,7 @@ _Referential Integrity Rule_ – The foreign key may be null (if it isn’t part
 ## 9.	Primary Keys in SQL Statements – highlighted in orange.
 
 ## 10.	 Database Populated with Five Records per Table
-
+```
 insert into customers
 values ('10', 'Mark Sterling', '9 Iroquois Road','5879654889'),
 ('11', 'Mark United', '995 Brown Court','5879659874'),
@@ -97,5 +97,5 @@ VALUES ('1235','27','11','327','Cash'),
 ('1265','26','12','227','Credit Card'),
 ('1239','29','13','333','Cash'),
 ('1289','28','14','27','');
-
+```
 
